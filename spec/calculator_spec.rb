@@ -1,5 +1,5 @@
 # Code your solution in calculator.rb
-
+l
 describe "./calculator.rb" do
 
   it "contains a local variable called first_number that is assigned to a number" do
@@ -15,7 +15,7 @@ describe "./calculator.rb" do
     expect(second_number).not_to equal(0)
   end
 
-  it "contains a local variable called sum that is assigned to the result of adding first_number and second_number" do
+  it "contains a local variable called sum that is assigned to the result of adding first_number and second_number" dohttps://learn.co/tracks/fswd-prework-2-01/fswd-prework-2-01-fswd-prework/fswd-prework-2-01-fswd-prework-programming-as-conversation-part-3-bundling-expressions-and-statements-into-methods/fswd-prework-2-01-fswd-prework-programming-as-conversation-part-3-bundling-expressions-and-statements-into-methods-labs-with-test-driven-development#
     first_number = get_variable_from_file('./calculator.rb', "first_number")
     second_number = get_variable_from_file('./calculator.rb', "second_number")
     sum = get_variable_from_file('./calculator.rb', "sum")
